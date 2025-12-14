@@ -1,5 +1,7 @@
 # Charta Core
 
+![CI](https://github.com/ChartaFoundation/charta-mono/workflows/CI/badge.svg)
+
 Core language semantics and IR validation.
 
 ## Components
